@@ -1,0 +1,13 @@
+#line-chart{
+  min-height: 250px;
+}
+#coin-price-box{
+  border: 2px solid gray;
+}
+.col{
+  text-align:center;
+}
+#mycoin-price{
+  color:yellow;
+  background-color:black;
+}
